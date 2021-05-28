@@ -7,7 +7,6 @@ Na nossa formação do [Vai na Web](https://www.vainaweb.com.br/) temos desafios
 ## Conteúdo da Aula03 - Loops
 ### Tema da aula: Como um software executa um código repetidamente
 
-
 Discussão: introdução à lógica de programação
 
 ### Objetivos: 
@@ -35,7 +34,7 @@ Discussão: introdução à lógica de programação
 
 ### Desafio 03
 ---
-Segue abaixo as tarefas do terceiro desafio proposto pelo plano programático de estudos do [Vai na Web](https://www.vainaweb.com.br/).
+Segue abaixo as tarefas do **terceiro** desafio proposto pelo plano programático de estudos do [Vai na Web](https://www.vainaweb.com.br/).
 
 ```js
 // Criar um loop que conte de 1 até 10 usando FOR;
@@ -47,6 +46,11 @@ Segue abaixo as tarefas do terceiro desafio proposto pelo plano programático de
 //  Criar um loop que conte todos os números pares de 0 a 100;
 
 ```
+
+## Quem sou eu?
+<img src="assets/img/perfil linkedin.png" align="right" width= "250">
+
+Meu nome é [Rodrigo](https://www.linkedin.com/in/devrodrigosousa/), tenho 27 anos e sou recém-formado em Ciências Socais. Atualmente sou estudante de Front-End pela escola de programação [Vai na Web](https://www.vainaweb.com.br/).
 
 ## Contato
 
