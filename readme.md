@@ -11,16 +11,27 @@ Na nossa formação do [Vai na Web](https://www.vainaweb.com.br/) temos desafios
 Discussão: introdução à lógica de programação
 
 ### Objetivos: 
-*Entender e explorar os laços de repetição for/while
+- Entender e explorar os laços de repetição for/while
 
 ## Desafios Javascript
-- [Desafio 01](https://devrodrigosousa.github.io/desafio1-js/)
-- [Desafio 02](https://devrodrigosousa.github.io/desafio2-js/)
-- [Desafio 03](https://devrodrigosousa.github.io/desafio3-js/)
-- [Desafio 04](https://devrodrigosousa.github.io/desafio4-js/)
-- [Desafio 05](https://devrodrigosousa.github.io/desafio5-js/)
-
-- [Desafio 06](https://devrodrigosousa.github.io/desafio6-js/)
+- Desafio 01
+  - [Repositório](https://github.com/devrodrigosousa/desafio1-js)
+  - [Pages](https://devrodrigosousa.github.io/desafio1-js/)
+- Desafio 02
+  - [Repositório](https://github.com/devrodrigosousa/desafio2-js)
+  - [Pages](https://devrodrigosousa.github.io/desafio2-js/)
+- Desafio 03
+  - [Repositório](https://github.com/devrodrigosousa/desafio3-js)
+  - [Pages](https://devrodrigosousa.github.io/desafio3-js/)
+- Desafio 04
+  - [Repositório](https://github.com/devrodrigosousa/desafio4-js)
+  - [Pages](https://devrodrigosousa.github.io/desafio4-js/)
+- Desafio 05
+  - [Repositório](https://github.com/devrodrigosousa/desafio5-js)
+  - [Pages](https://devrodrigosousa.github.io/desafio5-js/)
+- Desafio 06
+  - [Repositório](https://github.com/devrodrigosousa/desafio6-js)
+  - [Pages](https://devrodrigosousa.github.io/desafio6-js/)
 
 ### Desafio 03
 ---
@@ -39,10 +50,11 @@ Segue abaixo as tarefas do terceiro desafio proposto pelo plano programático de
 
 ## Contato
 
-Vamos nos conectar? **Minhas outras redes**:
+Vamos nos conectar? 
+
+**Minhas outras redes**:
 
 - [Linkedin](https://www.linkedin.com/in/devrodrigosousa/)
-
 - [Instagram](https://www.instagram.com/devrodrigosousa/)
 
 ---
